@@ -64,8 +64,7 @@ A dataset consists of 569 records and 30 features is used to build a model that 
     - In addition, precision and recall of the model could be further evaluated with metrics.precision_score() and metrics.recall_score()
 
 
-![alt text](image/model%20accuracy.png "Title Text")
+![](model%20accuracy.png "Title Text")
 
-More details:
-https://www.datacamp.com/community/tutorials/svm-classification-scikit-learn-python
+
 
